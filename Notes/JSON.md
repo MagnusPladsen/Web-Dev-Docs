@@ -1,3 +1,5 @@
+#js #javascript #webDev #dev #docs #js/json #json
+
 JSON stands for JavaScript Object Notation.
 
 It is a way for us to store JavaScript data in a pure text format so that it can easily be shared, such as between applications or outside of a JavaScript environment.

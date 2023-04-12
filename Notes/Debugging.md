@@ -1,3 +1,5 @@
+#js #javascript #webDev #dev #docs #js/debugging
+
 We often will run into errors and bugs in our code, this is a part of programming you can’t avoid. Debugging is the process of finding these errors and bugs in our code, and it is a very important skill to grow. In this module, we will look at different ways to debug our code and how you can improve your debugging skills.
 
 ## Why you need to debug

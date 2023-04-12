@@ -1,3 +1,5 @@
+#js #javascript #webDev #dev #docs #js/destructuring
+
 Destructuring allows us to make our code more concise and cleaner. We can destructure objects and arrays.
 
 Destructuring lets us take properties from an object, or values from an array, without having to write multiple lines of code.

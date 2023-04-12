@@ -1,3 +1,5 @@
+#js #javascript #webDev #dev #docs #js/set
+
 A `Set` object stores unique values of any type. A value can only ever occur once in a `Set` and is therefore unique in a `Set`. You can also iterate through a `Set` in the order in which items were successfully added.
 
 ## Creating a new Set object[](https://content.noroff.dev/javascript-2/set.html#creating-a-new-set-object)

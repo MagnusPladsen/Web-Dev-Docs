@@ -1,3 +1,5 @@
+#js #javascript #webDev #dev #docs #js/localStorage 
+
 Local Storage/`localStorage` allows us to store data in the browser that will persist across browser sessions. This means it will continue to exist after we’ve opened and closed the browser.
 
 Local Storage allows us to store data for users visiting our websites and apps, however, if they clear all of the browser cache then it will likely also clear these variables.

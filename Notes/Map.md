@@ -1,3 +1,5 @@
+#js #javascript #webDev #dev #docs #js/map
+
 The `Map` object holds key/value pairs like a normal object. The original insertion order into a `Map` object is remembered whereas a normal object’s order is unreliable. Any value, both objects and primitive values may be used as a key or a value.
 
 ## Basics
