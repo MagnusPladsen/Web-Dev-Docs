@@ -18,6 +18,8 @@
 
 ## [[Destructuring]]
 
+## [[Spread|Spread Syntax]]
+
 ## [[Debugging]]
 
 ## [[JSON]]
