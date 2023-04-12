@@ -1,6 +1,6 @@
 # Web Dev Docs
 ### This is a personal project and experiment with [Obsidian](https://obsidian.md/) where i will create simple docs for those who are seeking to learn Web Dev.
-### The notes are created using prompts to Chat-GTP AI.
+### The notes are created using prompts to Chat-GPT AI.
 ### This project is note done and i will update it when i get some time.
 
 ## 1. Download Obsidian as your note taking application
