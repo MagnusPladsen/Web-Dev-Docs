@@ -22,6 +22,8 @@
 
 ## [[JSON]]
 
+## [[Local Storage]]
+
 
 
 ### [[Web Dev Docs |<- Back to Main]]
