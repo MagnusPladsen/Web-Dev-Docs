@@ -1,6 +1,6 @@
 #js #javascript #webDev #dev #docs 
 
-## [[What is JavaScript?]]
+## [[What is JavaScript]]
 
 ## [Operators](Operators.md)
 
@@ -28,6 +28,7 @@
 
 ## [[Set]]
 
+## [[Classes]]
 
 
 ### [[Web Dev Docs |<- Back to Main]]
