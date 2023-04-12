@@ -24,6 +24,8 @@
 
 ## [[Local Storage]]
 
+## [[Map]]
+
 
 
 ### [[Web Dev Docs |<- Back to Main]]
