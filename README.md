@@ -23,7 +23,7 @@ This project is note done and i will update it when i get some time.
 
 
 ### 3. Clone this repo
-`git clone https://github.com/MagnusPladsen/ozonbehandling`
+`git clone https://github.com/MagnusPladsen/Web-Dev-Docs`
 
 
 ### 4. Copy the folder from the repo inside your Obsidian Vault folder
