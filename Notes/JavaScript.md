@@ -18,6 +18,8 @@
 
 ## [[Destructuring]]
 
+## [[Debugging]]
+
 
 
 ### [[Web Dev Docs |<- Back to Main]]
