@@ -30,5 +30,7 @@
 
 ## [[Classes]]
 
+## [[Scope]]
+
 
 ### [[Web Dev Docs |<- Back to Main]]
