@@ -2,7 +2,7 @@
 
 JavaScript is a very versatile programming language that allows you to create complex web applications. One of the essential components of JavaScript is its methods. In this document, we will discuss some of the most important methods used in JavaScript.
 
-## [String Methods](Web%20Dev%20Docs/Notes/String%20Methods.md)
+## [String Methods](Web%20Dev%20Docs/JavaScript/Methods/String%20Methods.md)
 
 String methods are used to manipulate strings in JavaScript. Some of the commonly used string methods are `charAt()`, `concat()`, `indexOf()`, `lastIndexOf()`, `replace()`, `slice()`, `split()`, `substr()`, and `toLowerCase()`. These methods help in tasks such as finding the position of a character, replacing a character or a substring, and converting the case of strings.
 

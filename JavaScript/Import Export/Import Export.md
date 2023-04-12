@@ -1,7 +1,7 @@
 #js #javascript #webDev #dev #docs #js/import #js/export
 
 In JavaScript, the `import` and `export`
- statements are used to create and use modules, which are reusable 
+statements are used to create and use modules, which are reusable 
 pieces of code that can be imported into other modules or scripts.
 
 ## [Export](Export.md)
