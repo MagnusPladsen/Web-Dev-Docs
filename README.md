@@ -27,10 +27,10 @@ This project is note done and i will update it when i get some time.
 
 
 ### 4. Copy the folder from the repo inside your Obsidian Vault folder
-Copy the whole ´Web Dev Docs´folder and paste in inside your Obisidan [Vault](https://help.obsidian.md/Getting+started/Create+a+vault).
+Copy the whole **Web Dev Docs** folder and paste in inside your Obisidan [Vault](https://help.obsidian.md/Getting+started/Create+a+vault).
 
 ### 5. Use links to navigate between the different pages
-The docs are using a link system where you can navigate by clicking the links in each note.
+The docs are using a [linking](https://help.obsidian.md/Linking+notes+and+files/Internal+links) system where you can navigate by clicking the links in each note.
 
 ---
 
