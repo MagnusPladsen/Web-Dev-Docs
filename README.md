@@ -22,8 +22,15 @@
 Click the **Get Obsidian** button to download the application
 
 #### 1.2  Create your [Vault](https://help.obsidian.md/Getting+started/Create+a+vault).
-A Obsidian Vault is a folder on your computer that stores your notes in markdown files. I would highly reccommend to store this folder in a cloud service, you can also choose to pay Obisidian for their own cloud sync if you prefer. Then you can easily access this in the mobile application and it will always be backed up. You can also backup the Vault with GIT.
+A Obsidian Vault is a folder on your computer that stores your notes in markdown files. I would reccommend creating the folder inside a cloud service, see the next step for more information.
 
+
+#### 1.3 (Optional) Set up Cloud synchronization for backup and easy access in mobile app
+**Option 1:** Move your Vault folder/Create your Vault folder inside your Cloud services folder. Example: iCloud Drive, Dropbox etc.
+**Option 2:** You can also choose to pay Obisidian for their own cloud sync if you prefer.
+**Option 3:** You can also backup the Vault with GIT of course.
+
+**NB:** If you moved your Vault folder, upon launch of Obsidian it may ask you to locate your Vault folder.
 
 ### 2. Download [Waypoint](https://github.com/IdreesInc/Waypoint) for Obsidian
 #### 2.1 Download plugin
