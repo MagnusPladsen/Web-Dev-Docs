@@ -26,10 +26,10 @@ A Obsidian Vault is a folder on your computer that stores your notes in markdown
 
 
 #### 1.3 (Optional) Set up Cloud synchronization for backup and easy access in mobile app
-**Option 1:** Move your Vault folder/Create your Vault folder inside your Cloud services folder. Example: iCloud Drive, Dropbox etc.
-**Option 2:** You can also choose to pay Obisidian for their own cloud sync if you prefer.
-**Option 3:** You can also backup the Vault with GIT of course.
-
+**Option 1:** Move your Vault folder/Create your Vault folder inside your Cloud services folder. Example: iCloud Drive, Dropbox etc.</br>
+**Option 2:** You can also choose to pay Obisidian for their own cloud sync if you prefer.</br>
+**Option 3:** You can also backup the Vault with GIT of course.</br>
+</br>
 **NB:** If you moved your Vault folder, upon launch of Obsidian it may ask you to locate your Vault folder.
 
 ### 2. Download [Waypoint](https://github.com/IdreesInc/Waypoint) for Obsidian
