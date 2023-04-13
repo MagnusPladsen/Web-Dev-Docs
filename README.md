@@ -22,7 +22,7 @@
 Click the **Get Obsidian** button to download the application
 
 #### 1.2  Create your [Vault](https://help.obsidian.md/Getting+started/Create+a+vault).
-A Obsidian Vault is a folder on your computer that stores your notes in markdown files. I would reccommend creating the folder inside a cloud service, see the next step for more information.
+A Obsidian Vault is a folder on your computer that stores your notes in markdown files. I would recommend creating the folder inside a cloud service, see the next step for more information.
 
 
 #### 1.3 (Optional) Set up Cloud synchronization for backup and easy access in mobile app
