@@ -18,6 +18,8 @@ Overall, JavaScript is a crucial tool in web development and has played a signif
 - [[Debugging]]
 - [[Destructuring]]
 - **[[Functions]]**
+	- [[Arrow Functions]]
+	- [[Regular Functions]]
 - **[[Import Export]]**
 	- [[Export]]
 	- [[Import]]
